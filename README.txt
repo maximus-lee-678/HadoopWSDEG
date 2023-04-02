@@ -16,3 +16,6 @@ CORENLP
 
 SCRAPER USED
 [https://github.com/maximus-lee-678/GlassdoorOpener]
+
+DEMONSTRATION
+[https://youtu.be/qezmN0G6ziE]
