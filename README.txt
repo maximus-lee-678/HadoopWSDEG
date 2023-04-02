@@ -13,3 +13,6 @@ AFINN SENTIMENTS
 CORENLP
 [https://stanfordnlp.github.io/CoreNLP/]
 [https://github.com/stanfordnlp/CoreNLP]
+
+SCRAPER USED
+[https://github.com/maximus-lee-678/GlassdoorOpener]
