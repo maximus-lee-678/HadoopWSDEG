@@ -17,6 +17,13 @@
     :width: 256
     :target: https://www.youtube.com/watch?v=qezmN0G6ziE
 
+🔢 Cloning
+-----------
+
+.. code-block:: console
+
+  git clone --recurse-submodules https://github.com/maximus-lee-678/HadoopWSDEG.git
+
 ⭐ Resources Used
 ------------------
 
